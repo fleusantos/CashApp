@@ -1,4 +1,4 @@
-import { SignUpViewPage } from '@/sections/signup/view';
+import { SignUpViewPage } from '../../../sections/signup/view';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
